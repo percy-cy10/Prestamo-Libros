@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1719462929 source:c:\users\percy\desktop\posgrado\prestamos libros\main.cpp
+	"include/Menu.h"
+
+1719634023 c:\users\percy\desktop\posgrado\prestamos libros\include\menu.h
+	"Persona.h"
+	"Libro.h"
+	"Prestamo.h"
+	"Fecha.h"
+	"Hora.h"
+
+1719465392 c:\users\percy\desktop\posgrado\prestamos libros\include\persona.h
+
+1719465261 c:\users\percy\desktop\posgrado\prestamos libros\include\libro.h
+
+1719465392 c:\users\percy\desktop\posgrado\prestamos libros\include\prestamo.h
+	"Persona.h"
+	"Libro.h"
+	"Hora.h"
+	"Fecha.h"
+
+1719465261 c:\users\percy\desktop\posgrado\prestamos libros\include\hora.h
+
+1719465261 c:\users\percy\desktop\posgrado\prestamos libros\include\fecha.h
+
+1719463219 source:c:\users\percy\desktop\posgrado\prestamos libros\src\consultar.cpp
+	"../include/Consultar.h"
+	<stdio.h>
+	<string.h>
+
+1719462862 c:\users\percy\desktop\posgrado\prestamos libros\include\consultar.h
+	"Persona.h"
+	"Libro.h"
+	"Prestamo.h"
+
+1719465261 source:c:\users\percy\desktop\posgrado\prestamos libros\src\fecha.cpp
+	"../include/Fecha.h"
+	<iostream>
+
+1719465261 source:c:\users\percy\desktop\posgrado\prestamos libros\src\guardar.cpp
+	"../include/Guardar.h"
+	<stdio.h>
+
+1719465261 c:\users\percy\desktop\posgrado\prestamos libros\include\guardar.h
+	"Persona.h"
+	"Libro.h"
+	"Prestamo.h"
+
+1719465261 source:c:\users\percy\desktop\posgrado\prestamos libros\src\hora.cpp
+	"../include/Hora.h"
+	<iostream>
+
+1719465261 source:c:\users\percy\desktop\posgrado\prestamos libros\src\libro.cpp
+	"../include/Libro.h"
+	<string.h>
+	<iostream>
+
+1719634072 source:c:\users\percy\desktop\posgrado\prestamos libros\src\menu.cpp
+	"../include/Menu.h"
+	"../include/Guardar.h"
+	"../include/Consultar.h"
+	"../include/Prestamo.h"
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<chrono>
+	<ctime>
+
+1719465541 source:c:\users\percy\desktop\posgrado\prestamos libros\src\persona.cpp
+	"../include/Persona.h"
+	<iostream>
+	<string.h>
+
+1719465261 source:c:\users\percy\desktop\posgrado\prestamos libros\src\prestamo.cpp
+	"../include/Prestamo.h"
+	<iostream>
+
